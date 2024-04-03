@@ -1,0 +1,15 @@
+.y02,
+.b01 {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 50px;
+}
+
+.b01 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.y02 {
+    background-color: yellow;
+}
